@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik Chakravarthi  
 
-🚀 **AI Developer | Lead Software Engineer | Tech Enthusiast**  
+🚀 **Lead Software Engineer | AI Developer | Tech Enthusiast**  
 
 With **14+ years of experience** in the IT industry, I have evolved from a **Software Engineer** to a **Lead Developer**, specializing in **Artificial Intelligence**, **Machine Learning**, and **Software Development**.  
 
